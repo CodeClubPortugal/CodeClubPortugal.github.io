@@ -148,13 +148,10 @@
        clip-path="url(#clipPath4926)"
        transform="translate(-72,-2)"><g
          id="g4478"
-         transform="translate(-166,-78)"><rect
-           style="fill:#42b23c;fill-opacity:1;stroke:#d40000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           id="rect4416"
-           width="673.37286"
-           height="253.96228"
-           x="0.33474731"
-           y="2.1841125" /></g><g
+         transform="translate(-166,-78)"><path
+           style="fill:#42b23c;fill-opacity:1;stroke:#d40000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1"
+           d="m 0.33474731,2.1841125 673.37286269,0 0,253.9622775 -673.37286269,0 z"
+           id="rect4416" /></g><g
          id="g3521"
          transform="matrix(0.59608051,0,0,0.59608051,4.6249994,-75.34322)"><path
            d="M 240,567.87631 H 792.35827 V 0 H 240 v 418.2551 149.62121 z"
